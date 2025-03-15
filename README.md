@@ -57,7 +57,7 @@ On **macOS/Linux**:
 1. Ensure your virtual environment is activated.
 2. Start the Streamlit server
 3. Open your browser and navigate to [http://localhost:8501](http://localhost:8501/) to access the application.
-`python -m streamlit run app.py4`
+`python -m streamlit run app.py`
 
 **Usage Guide 📖**
 
